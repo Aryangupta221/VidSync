@@ -12,7 +12,7 @@ function Logo({ className = "" }) {
                 alt="logo"
                 className="w-10 h-10 inline-block mr-2"
             />
-            <div>Streamify</div>
+            <div>VidSync</div>
         </div>
     );
 }
